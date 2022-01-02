@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katie Taylor</title>
+    <link>https://kmxtaylor.github.io/</link>
+    <description>Recent content on Katie Taylor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2022 15:43:53 -0800</lastBuildDate><atom:link href="https://kmxtaylor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://kmxtaylor.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 01 Jan 2022 15:43:53 -0800</pubDate>
+      
+      <guid>https://kmxtaylor.github.io/posts/my-first-post/</guid>
+      <description>my first post</description>
+      <content>&lt;p&gt;my first post&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
